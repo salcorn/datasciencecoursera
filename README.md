@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo created for Data Science Cource on Coursera
+Repo created for Data Science Course on Coursera
